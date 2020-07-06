@@ -1,3 +1,5 @@
+如果 Github 访问速度比较慢或者图片无法刷新出来的话，可以转移到[码云](https://gitee.com/SnailClimb/JavaGuide )查看，或者[在线阅读](https://snailclimb.gitee.io/javaguide )。**如果你要提交 issue 或者 pr 的话请到 [Github](https://github.com/Snailclimb/JavaGuide) 提交。**
+
 > JavaGuide 的Star数量虽然比较多，但是它的价值和含金量一定是不能和 Dubbo、Nacos这些优秀的国产开源项目比的。希望国内可以出更多优秀的开源项目！
 >
 > 另外，希望大家对面试不要抱有侥幸的心理，打铁还需自身硬！  我希望这个文档是为你学习  Java 指明方向，而不是用来应付面试用的。加油！奥利给！
@@ -10,8 +12,6 @@
 更多原创内容和干货分享：
 
 1. [公众号—JavaGuide](#公众号) ： 最新原创文章+免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源）
-
-Github用户如果访问速度缓慢的话，可以转移到[码云](https://gitee.com/SnailClimb/JavaGuide )查看，或者[在线阅读](https://snailclimb.gitee.io/javaguide )。
 
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
@@ -43,12 +43,13 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://wx.kaikeba.com/vip_course/ijd2ajz1k9/09vvaf10hf?tenant=wx5046bc7413796142" target="_blank">
+        <a href="https://mp.weixin.qq.com/s/uXgGt66Df3JC4GM7d0LlZg" target="_blank">
           <img src="https://imgkr.cn-bj.ufileos.com/75fef802-16f0-4e0b-9d6f-a9173f24a40f.png" style="margin: 0 auto;width:400px" /></a>
       </td>     
     </tr>    
   </tbody>
 </table>
+
 
 ## 目录
 
@@ -218,7 +219,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 
 ### Redis
 
-* [Redis 常见问题总结](docs/database/Redis/Redis.md)
+* [Redis 常见问题总结](docs/database/Redis/redis-all.md)
 * **Redis 系列文章合集：**
   1. [5种基本数据结构](docs/database/Redis/redis-collection/Redis(1)——5种基本数据结构.md)
   2. [跳跃表](docs/database/Redis/redis-collection/Redis(2)——跳跃表.md)
